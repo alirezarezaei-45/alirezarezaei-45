@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**alirezarezaei-45/alirezarezaei-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 
 
-Here are some ideas to get you started:
+I'm Alireza (Rey if its hard to pronounce😊) 18 y/o . I'm a tech enthusiast interest mainly in Cybersecurity, Clouds services, Tech Hardware and Mobile phone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Home lab / server (Linux)
+- 🌱 I’m currently learning Cybersecuirty and helpdesk basics at BC Helsinki
+- 🤔 I’m looking for help with oppertunities to grow into this field
+- 💬 Ask me about Servers, Network basics and Hardware (PC building and mobile phones) 
+- 📫 How to reach me: Linkdin and here
+- ⚡ Fun fact: I learned english  from games and social medias (I watched a lot of pewdiepie)
+
